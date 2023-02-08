@@ -29,10 +29,10 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 _Birds of America_ (1827) by John James Audubon. 
 Some pretty cool birds. ___CAW CAW___
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Sample Image - obj10" 
+       description="provided by Erica Hayes" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://raw.githubusercontent.com/02-JFD/Juncture_VisualEssay_Test2/main/obj10.jpg">
 
 ## Map
 
