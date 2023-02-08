@@ -50,5 +50,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-map center="Q36600" zoom="11">
 
 # References
-
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
