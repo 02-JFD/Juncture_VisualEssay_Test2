@@ -3,9 +3,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with the pearl earring"
-       author="Erica Hayes"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/John_James_Audubons_Birds_of_America_-_Plate_76_%28Detail%29.jpg/640px-John_James_Audubons_Birds_of_America_-_Plate_76_%28Detail%29.jpg" 
+       title="Birds Essay CAW-CAW"
+       author="Julia Duarte"
+       banner="https://iiif.juncture-digital.org/banner/url=https://upload.wikimedia.org/wikipedia/commons/c/c4/Illustration_from_Birds_of_America_%281827%29_by_John_James_Audubon%2C_digitally_enhanced_by_rawpixel-com_366.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
